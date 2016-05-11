@@ -1,0 +1,30 @@
+Speaker: Thierry Geiger
+Date: 20160429
+Category: Other
+Occasion: Data story
+Source: 
+
+When it comes to dumbing it down, Donald Trump takes its to whole new level. A semantic analysis of dozens of speeches and interventions by candidates for the 2016 US presidential election reveals that Donald Trump’s language is by far the simplest.
+
+The analysis is based on the Flesch and Flesch-Kincaid (FK) test which use the number of syllables in words and the length of sentences in a text to determine how difficult it is to understand. The test yields a score as a U.S. education grade level equivalent. It can be interpreted as the number of years of education generally required to understand a text. The rule of thumb has it that a speech aimed for a general public should score around 8.0. 
+
+The analysis covers 109 interventions by the six candidates who were still in the race as of March 13, namely  Clinton, Cruz, Kasich, Rubio - who has since dropped out -, Sanders, and Trump. It includes each candidate’s campaign bid speech, speeches on important primary days (Iowa, Super Tuesday, Super Saturday, etc.), interventions at all 12 GOP and 10 DNC primary debates, interviews, and speeches at other fora. Its scope is therefore considerably larger than similar exercises, including the Boston Globe’s analysis on campaign announcement speeches or Danny Westneat’s piece on Donald Trump.
+
+Trump’s language is so simple that on average his speeches can be understood by fourth graders. His speech in New Hampshire on February 9 yielded a FK score of  2.9, meaning a second grader could understand him (chart 1). 
+
+Eighteen of the 21 lowest-graded performances  among the 108 considered were delivered by Trump. In fact, the highest grade  achieved by Trump which is to the lowest score by any other candidate except Kasich. 
+
+By contrast Bernie Sanders’s speeches are on average for 8th graders or above, the highest average among all candidates and four grades above Trump (chart 2). Sanders’s speech at Georgetown University in November 2015 obtains the highest  FK grade score - 10.3. His lowest-rated speech - on Super Tuesday - still rated higher than Trump’s highest-rated intervention (5.6) which occurred on that same night. Looking back at history, Barack Obama’s Super Tuesday speech on February 5, 2008, earned a score of 8.3 (and his 2008 election night victory address a 9.1)… 
+
+The ‘performance’ of a candidate is influenced by the setting, the host, the nature of the show. For most candidates, their campaign bid announcement was among the eloquent. This is not surprising as this one is more propice to the evocation of the candidate’s vision and aspirations, far away from the action of the primaries, the bickering, the attacks, the insults.  One notable exception is John Kasich, whose bid speech at Ohio State University gets a FK score of 3.6 - the third lowest grade of all speeches in our sample and the 5.6 average across his interventions makes him the second most basic speaker after Trump. This is not surprising considering what The Time’s Robert Draper describe as Kasich’s “quixotically rambling, hug-dispensing campaign manner [that] borrows more from Jimmy Carter than from Ronald Reagan.”
+
+Keynote addresses at different fora compete with campaign launch speeches for the highest FK scores for most candidates.  But even on those occasions, Trump doesn’t seem able to elevate the level of language. 
+
+Candidates systematically achieve lower grades in an interview setting. This is not surprising: among all types of interventions reviewed, interview is as close as a “normal” conversation as it can be. Yet the peg order among candidates remain. On January 24, 2016, Chuck Todd hosted Hillary Clinton, Bernie Sanders and Donald Trump in his show “Meet the Press” on NBC News. In the exact same setting, on the very same day and answering questions from the same host, their performance was strikingly different (Chart 3). And Sanders achieved a FK score higher than Trump’s best performance. 
+
+A look at the FK scores during the presidential debates reveals interesting patterns and dynamics. Trump displayed remarkable consistency in mediocrity with FK scores oscillating between 3.7 and 4.4 throughout. Kasich but managed to up his game with time, albeit from a very low base. Enjoying a short-lived momentum around that time, Kasich scored a score of 7.9  during the 6th  GOP debate on January 14th, the second highest score among Republicans in any given debate. At least one political correspondent observed that he “honed his delivery in the GOP debate [...], giving clear, plain-spoken explanations of his economic priorities.”  In the subsequent debate, Kasich was himself again. 
+
+Rubio and Cruz started on a relatively high level. On August 6, 2016, during the first debate both scored 9.1, which make them among the top 10 of the entire sample. During the 10th debate, they both dumbed it down to 6.8. Interestingly enough, in six of the 12 debates, Cruz and Rubio achieved the exact same FK score. In contrast, Sanders and Clinton have kept a similar level of language - about seventh grade - between the first debate last October and the seventh debate in March. Meanwhile at the Democrats, Clinton outperformed Sanders in seven of the ten DNC debates, although all things considered, Sanders’ prose is richer, 
+
+One pivotal  moment of the primaries is without doubt “Robot” Rubio’s debacle during the 8th debate. Despite his disastrous performance, which precipitated the end of his campaign, his interventions that night still earned him a FK score of  7.2.  This shows that Flesh-Kincaid has obviously its limits. As noted by The Writer copywriting agency, FK - like other readability tests - is only a “blunt instrument”.  It can only “tell you how easy or hard your writing is to ‘take in’ [but] can’t tell you anything about whether your logic is sound or wonky, your arguments forceful or weak.” That said, Rubio in a desperate attempt to catch up - or down - with the competition did resort to a simpler language in subsequent debates. To no avail.
+
